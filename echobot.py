@@ -21,8 +21,8 @@ import json
 from telegram import __version__ as TG_VER
 import os
 
-BOT_TOKEN = "5451331466:AAEjDUugJJ_Yeas03Q8IVYJeKkyfceW0EGw"
-PRINTER_NAME = 'MX920'
+BOT_TOKEN = "YOUR_TOKEN"
+PRINTER_NAME = 'YOUR_PRINTER'
 
 try:
     from telegram import __version_info__
